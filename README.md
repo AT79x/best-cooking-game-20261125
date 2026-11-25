@@ -2,9 +2,9 @@
 
 ![Warung Nasi Goreng](https://make.fun/bounty/best-cooking-game-20261125-0137)
 
-[![Competition](https://make.fun/badge/competition/best-cooking-game-20261125-0137)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![Rank](https://make.fun/badge/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![Reward](https://make.fun/badge/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/AT79x/best-cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/AT79x/best-cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 An original Indonesian street-food stall game for the make.fun
 [best cooking game bounty](https://make.fun/bounty/best-cooking-game-20261125-0137).
